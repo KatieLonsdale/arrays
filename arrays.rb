@@ -28,3 +28,7 @@ p booleans
 #when an element is removed or added. In the original strings
 #array, the element in position 2 is 'c'. In the original
 #floats array, the element in position 0 is 1.5
+
+#Calling the index method on the strings array will
+#return the position of the element in the parentheses.
+p strings.index('a')
