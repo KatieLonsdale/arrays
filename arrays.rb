@@ -22,3 +22,9 @@ p floats
 #add the element in the parentheses to the front of the array
 booleans.unshift(true)
 p booleans
+
+#Index positions in an array start with 0 and go up, 
+#reading from left to right. Index positions are shifted
+#when an element is removed or added. In the original strings
+#array, the element in position 2 is 'c'. In the original
+#floats array, the element in position 0 is 1.5
