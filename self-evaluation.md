@@ -1,0 +1,3 @@
+- I feel very confident with the content on arrays so far. The methods we learn make sense to me and I found a Ruby Docs webpage for the future that lists all the methods in a way that's very simple to understand.
+- Nothing before I move on to the next lesson, but I will definitely use that Ruby Doc in the future and read about some new arrays if I have spare time.
+- I'd like to see real life examples of when arrays are used.
